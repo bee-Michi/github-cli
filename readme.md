@@ -7,7 +7,7 @@ It's a cli (OR command line intarface), that let's you easaly connect to the git
 ### Development
 The tool was developed in python, using the github api V3 and [githubpy](https://github.com/michaelliao/githubpy). 
 
-The file is developed in python 3.10.1 so its best used in that enviorment, but githubpy supports python 2.6, thoug for 2.7 or below it is not stable.
+The file is developed in python 3.10.1 so its best used in that enviorment, but githubpy supports python 2.6, thoug this is not tested, use a your own risk.
 
 ## Download 
 Download the source code, and then grab the lates release of python:
@@ -30,23 +30,21 @@ Linux: Same as windows
 
 ### Running the program:
 
-You can run it from your termianl like this:
-
-(Make shoure to be in the same directory!)
+After entering the directory type in this command
 
 Windows: ```python git.py```
 
 MacOS: ```python3 git.py```
 
-Linux: Same as windows (if not working try the macos form)
+Linux: Same as windows (if not working try like MacOS)
 
 Or you can run it from your ide/text editor/ an online python interpreter like replit.
 
 ## Liscence
 
-This program is distribuated under the GNU GPL 3.0.
+This program is distribuated under the MIT liscene!
 
-If you wan to learn more about it read the liscence file, or go [here](https://www.gnu.org/licenses/gpl-3.0.en.html).
+Learn more at the liscence file!
 
 ## Contributing and Forking
 
