@@ -8,5 +8,6 @@ v 1.1 {
     -Removed changes.md and added changes.txt!
     -Tried to add advenced mode, and failed!!!
     -Added bugs.txt
+    -Updated readme.md
     -General bugfixes!
 }
