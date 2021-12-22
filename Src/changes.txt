@@ -1,0 +1,11 @@
+v 1.0{
+    -Added searching pubblic repositoies
+    -Added searching users
+    -Added searching topics/languages!
+}
+
+v 1.0.1 {
+    -Removed changes.md and added changes.txt!
+    -Tried to add advenced mode, and failed!!!
+    -Added bugs.txt
+}
