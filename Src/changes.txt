@@ -9,5 +9,6 @@ v 1.1 {
     -Tried to add advenced mode, and failed!!!
     -Added bugs.txt
     -Updated readme.md
+    -Changed liscence from the gpl 3.0 to the mit.
     -General bugfixes!
 }
