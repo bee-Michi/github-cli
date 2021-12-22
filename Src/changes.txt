@@ -4,8 +4,9 @@ v 1.0{
     -Added searching topics/languages!
 }
 
-v 1.0.1 {
+v 1.1 {
     -Removed changes.md and added changes.txt!
     -Tried to add advenced mode, and failed!!!
     -Added bugs.txt
+    -General bugfixes!
 }
