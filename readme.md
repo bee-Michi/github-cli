@@ -17,25 +17,6 @@ MacOS: [here](https://www.python.org/downloads/macos/)
 Windows: [here](https://www.python.org/downloads/windows/) (32 bit on the same page)
 
 Linux: Depends on your distro, check your pacake manager.
-Examples:
-
-apt (pre installed in debian and all it's derivant): 
-
-```sudo apt-get install python 3.10.1```
-
-pacman (Pre installed in arch linux and it's derivants): 
-
-```sudo pacman install python 3.10.1```
-
-yum (Pre installed in most redhat distros): 
-
-```sudo yum install python 3.10.1```
-
-dnf (Fedora): 
-
-```sudo dnf install python 3.10.1```
-
-if non of these work check your package manager
 
 ### Extra dependencies
 
@@ -74,6 +55,14 @@ Feel free to contribute to the project. We are constantly working to new release
 Also if you have issuse, or want to ask before making large contribusions, then feel free to open an issue!
 
 You are free to fork the repository as long as you have read and understood the liscence.
+
+## Changes:
+
+All changes of all versions are in changes.txt
+
+## Bug report:
+
+To report a bug open an issue, thoug be warned that all known bugs are in bugs.txt
 
 ## Made by:
 
